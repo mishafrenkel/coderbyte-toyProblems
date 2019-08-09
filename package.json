@@ -1,0 +1,24 @@
+{
+  "name": "coderbyte-algorithms",
+  "version": "1.0.0",
+  "description": "Toy Problems from CoderByte, HackerRank, LeetCode, and other sources.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishafrenkel/coderbyte-toyProblems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishafrenkel/coderbyte-toyProblems/issues"
+  },
+  "homepage": "https://github.com/mishafrenkel/coderbyte-toyProblems#readme",
+  "devDependencies": {}
+}
